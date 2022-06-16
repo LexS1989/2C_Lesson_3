@@ -29,7 +29,7 @@ public class Main {
         station.check(car2, null, null);
         station.check(null, bicycle, null);
         station.check(null, bicycle2, null);
-        station.check(null, null, truck);
         station.check(null, null, truck2);
+        station.check(null, null, truck);
     }
 }
