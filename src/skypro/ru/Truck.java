@@ -27,3 +27,4 @@ public class Truck extends WheelsTransport implements ServiceTransport {
         checkTrailer();
     }
 }
+
